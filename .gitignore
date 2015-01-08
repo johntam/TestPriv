@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+.DS_Store
+*.pidb
+Jupiter/Components/
+Jupiter/packages/
