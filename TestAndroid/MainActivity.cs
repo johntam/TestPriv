@@ -27,7 +27,7 @@ namespace TestAndroid
 			
             button.Click += delegate
             {
-                button.Text = string.Format("{0} clicked!", count++);
+                button.Text = string.Format("{0} clicked on secret button!", count++);
             };
         }
     }
